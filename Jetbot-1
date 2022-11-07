@@ -13,4 +13,6 @@ Ubuntu에 Terminal 창을 띄운 후 gedit test.py 라는 명령어를 적어준
 그러면 test.py 라는 창이 생성된다.
 https://github.com/sominnn/Jetbot-1/issues/1#issue-1438186547
 
-Linux edit 
+Linux edit 기능으로는 gedit와 vi 편집이 있다.
+보통 Window에서는 메모장이나 워드패드, notepad 등 편집기를 주로 사용하지만, Linux에서는 gedit이나 vi로 내용을 편집한다.
+둘다 처음 실행하는 방식은 유사하지만 gedit는 메모장처럼 수정을 하고, vi는 명령어를 통해서 수정을 한다.
