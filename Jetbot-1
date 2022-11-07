@@ -1,0 +1,13 @@
+# Jetbot-1
+
+https://drive.google.com/file/d/1G5nw0o3Q6E08xZM99ZfzQAe7-qAXxzHN/view 으로 들어가 Linux version을 다운 받는다.
+SD card를 format 한 뒤 이미지 구워준다.
+SD card를 다 구웠으면 로봇 안에 장착된 Jetson에 넣어준다.
+
+이미지를 굽는 동안..
+다른 노트북이나 PC로 Ubuntu에 접속하여 Terminal 창을 띄어준다.
+Terminal 창에 sudo snap install termius-app 이라는 명령어를 적어준다.
+그 다음 자신의 비밀번호를 적어주면 Termius-app 7.51.0 from Termius가 다운 받기 시작한다.
+
+Ubuntu에 Terminal 창을 띄운 후 gedit test.py 라는 명령어를 적어준다.
+그러면 test.py 라는 창이 생성된다.
